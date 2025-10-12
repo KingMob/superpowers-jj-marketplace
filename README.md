@@ -13,7 +13,7 @@ The only difference is, I replaced the use of git in the superpowers plugin with
 Add this marketplace to Claude Code:
 
 ```bash
-/plugin marketplace add KingMob/superpowers-marketplace
+/plugin marketplace add KingMob/superpowers-jj-marketplace
 ```
 
 ## Available Plugins
@@ -26,7 +26,7 @@ Add this marketplace to Claude Code:
 
 **Install:**
 ```bash
-/plugin install superpowers@superpowers-marketplace
+/plugin install superpowers@superpowers-jj-marketplace
 ```
 
 **What you get:**
@@ -46,7 +46,7 @@ More community plugins will be added as the marketplace grows!
 ## Marketplace Structure
 
 ```
-superpowers-marketplace/
+superpowers-jj-marketplace/
 ├── .claude-plugin/
 │   └── marketplace.json       # Plugin catalog
 └── README.md                  # This file
@@ -54,7 +54,7 @@ superpowers-marketplace/
 
 ## Support
 
-- **Issues**: https://github.com/KingMob/superpowers-marketplace/issues
+- **Issues**: https://github.com/KingMob/superpowers-jj-marketplace/issues
 - **Core Plugin**: https://github.com/KingMob/superpowers
 
 ## License

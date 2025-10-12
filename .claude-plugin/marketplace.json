@@ -1,5 +1,5 @@
 {
-  "name": "superpowers-marketplace",
+  "name": "superpowers-jj-marketplace",
   "owner": {
     "name": "Jesse Vincent",
     "email": "jesse@fsck.com"
@@ -13,7 +13,7 @@
       "name": "superpowers",
       "source": {
         "source": "url",
-        "url": "https://github.com/KingMob/superpowers.git"
+        "url": "https://github.com/KingMob/superpowers-jj.git"
       },
       "description": "Core skills library: TDD, debugging, collaboration patterns, and proven techniques",
       "version": "1.0.0",
