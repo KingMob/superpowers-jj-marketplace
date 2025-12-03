@@ -6,7 +6,7 @@
   },
   "metadata": {
     "description": "Curated Claude Code plugins: skills, workflows, and productivity tools",
-    "version": "1.0.7"
+    "version": "1.0.9"
   },
   "plugins": [
     {
@@ -16,30 +16,7 @@
         "url": "https://github.com/KingMob/superpowers-jj.git"
       },
       "description": "Core skills library: TDD, debugging, collaboration patterns, and proven techniques",
-      "version": "2.0.4",
-      "keywords": ["skills", "tdd", "debugging", "collaboration", "best-practices", "workflows"],
-      "strict": true
-    },
-    {
-      "name": "superpowers-chrome",
-      "source": {
-        "source": "url",
-        "url": "https://github.com/obra/superpowers-chrome.git"
-      },
-      "description": "BETA: VERY LIGHTLY TESTED - Direct Chrome DevTools Protocol access via 'browsing' skill. Skill mode (17 CLI commands) + MCP mode (single use_browser tool). Zero dependencies, auto-starts Chrome.",
-      "version": "1.2.0",
-      "keywords": ["chrome", "browser", "automation", "devtools", "cdp", "websocket", "scraping", "testing", "mcp", "browsing"],
-      "strict": true
-    },
-    {
-      "name": "elements-of-style",
-      "source": {
-        "source": "url",
-        "url": "https://github.com/obra/the-elements-of-style.git"
-      },
-      "description": "Writing guidance based on William Strunk Jr.'s The Elements of Style (1918) - foundational rules for clear, concise, grammatically correct writing",
-      "version": "1.0.0",
-      "keywords": ["writing", "style", "grammar", "composition", "clarity", "documentation"],
+      "version": "3.6.1",
       "strict": true
     }
   ]
