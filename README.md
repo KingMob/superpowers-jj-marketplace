@@ -47,7 +47,7 @@ Add this marketplace to Claude Code:
 
 **Install:**
 ```bash
-/plugin install elements-of-style@superpowers-marketplace
+/plugin install elements-of-style@superpowers-jj-marketplace
 ```
 
 **What you get:**
@@ -72,7 +72,7 @@ superpowers-jj-marketplace/
 ## Support
 
 - **Issues**: https://github.com/KingMob/superpowers-jj-marketplace/issues
-- **Core Plugin**: https://github.com/KingMob/superpowers
+- **Core Plugin**: https://github.com/KingMob/superpowers-jj
 
 ## License
 

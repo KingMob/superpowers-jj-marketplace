@@ -10,7 +10,7 @@
   },
   "plugins": [
     {
-      "name": "superpowers",
+      "name": "superpowers-jj",
       "source": {
         "source": "url",
         "url": "https://github.com/KingMob/superpowers-jj.git"
