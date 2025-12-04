@@ -6,7 +6,9 @@ Curated Claude Code plugins for skills, workflows, and productivity tools.
 
 This is a fork of obra's superpowers marketplace. Almost all credit should go to them.
 
-The only difference is, I replaced the use of git in the superpowers plugin with Jujutsu (jj).
+The only differences are:
+- I replaced the use of git in the superpowers plugin with Jujutsu (jj).
+- I removed the other non-superpowers plugins; they should be obtained from obra's original marketplace.
 
 ## Installation
 
@@ -26,7 +28,7 @@ Add this marketplace to Claude Code:
 
 **Install:**
 ```bash
-/plugin install superpowers@superpowers-jj-marketplace
+/plugin install superpowers-jj@superpowers-jj-marketplace
 ```
 
 **What you get:**
